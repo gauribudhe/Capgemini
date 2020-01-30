@@ -1,1 +1,3 @@
 this is myjava file
+
+print hello
